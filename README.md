@@ -6,5 +6,7 @@ Clock made with JavaScript with dark mode/light mode
 ![lightmode-themeclock](https://user-images.githubusercontent.com/92955805/161309445-137bc627-5987-4b3c-a5f6-cfdc9ef06697.png)
 
 # Technologies
-JavaScript - 
+JavaScript - Functions of the clock
+CSS - Style/presentation of the clock
+HTML - HTTPS web application 
 
